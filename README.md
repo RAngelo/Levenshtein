@@ -1,4 +1,4 @@
 Levenshtein
 ===========
 
-Edit distance string c++
+Edit distance string implemented in c++.
